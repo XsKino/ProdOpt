@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Description
+ProdOpt es un proyecto de hackathon, cuyo track tiene la siguiente descripción:
+
+Create a system in Python that automates the necessary calculations to balance production with demand, allowing more precise and efficient planning and reducing costs, using linear programming modeling.Situation: Production is limited and is performed in cycles, therefore the bytes / bites need to be allocated to the products creating shortages and excess according to the demand and supply Variables: Yielded Supply, On Hand (Finished Goods) , Safety Stock Target (WOS) , Sellable Supply , Effective Demand, Total Projected Inventory Balance , Inventory Balance in excess of SST , Seedstock , R&O = Result Total Inventory Balance per period
+
+The expected solution involves developing and sharing the code for automation, along with the final files, documentation, bibliography, and all related information necessary to explain the solution comprehensively.
+
+lee el archivo [micron_db.xlsx](mdc:micron_db.xlsx) para obtener los datos de muestra
